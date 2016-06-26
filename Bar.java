@@ -7,6 +7,7 @@ public class Bar extends Foo
     {
    sum+=result;
  System.out.println(sum);
+ System.out.println("Hello");
     }
  public static void main(String[] args)
    {
