@@ -9,6 +9,10 @@ public class Bar extends Foo
  System.out.println(sum);
  System.out.println("Hello");
     }
+public void greet()
+{
+System.out.println("hello");
+}
  public static void main(String[] args)
    {
      Bar b=new Bar();
